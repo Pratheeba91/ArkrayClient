@@ -33,7 +33,7 @@ class HomePage extends React.Component {
   	      let response;
 
 	 let url;
-	 url = 'https://3c4at5vzoa.execute-api.ap-south-1.amazonaws.com/development/matc';
+	 url = 'https://9nd61320t5.execute-api.ap-south-1.amazonaws.com/newurl/matc';
 
      fetch(url) .then((response) => {
 
